@@ -1,0 +1,61 @@
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC0AAADzfwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAIA////+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAA/AAADzQAAAEoA////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAAAgD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAIA////AAAGZgAAA80AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+eDP-1 Height 1920x1080=1036
+eDP-1 Width 1920x1080=1825
+eDP-1 XPosition 1920x1080=87
+eDP-1 YPosition 1920x1080=36
+
+[CompactMode]
+FontSize=12
+FontWeight=50
+PreviewSize=128
+UseSystemFont=false
+
+[DetailsMode]
+FontSize=12
+FontWeight=50
+UseSystemFont=false
+
+[General]
+EditableUrl=true
+ShowSpaceInfo=false
+ShowZoomSlider=false
+Version=201
+ViewPropsTimestamp=2021,9,13,23,19,33.05
+
+[IconsMode]
+FontSize=12
+FontWeight=50
+IconSize=64
+PreviewSize=96
+UseSystemFont=false
+
+[KPropertiesDialog]
+eDP-1 Height 1920x1080=551
+eDP-1 Width 1920x1080=416
+
+[MainWindow]
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC0AAADzfwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAIA////+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAA/AAADzQAAAEoA////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAAAgD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAIA////AAAGZgAAA80AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+eDP-1 Height 1920x1080=1036
+eDP-1 Width 1920x1080=1825
+eDP-1 XPosition 1920x1080=87
+eDP-1 YPosition 1920x1080=36
+
+[MainWindow][Toolbar mainToolBar]
+IconSize=32
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail
+
+[Search]
+Location=Everywhere
+
+[SettingsDialog]
+eDP-1 Height 1920x1080=409
+eDP-1 Width 1920x1080=547
+
+[Toolbar mainToolBar]
+IconSize=32

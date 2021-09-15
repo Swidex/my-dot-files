@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 50 50"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Qt SVG Document</title>
+<desc>Generated with Qt</desc>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="1295.76" y1="261.101" x2="1308.11" y2="249.151" id="gradient1">
+    <stop offset="0" stop-color="#ff7d50" stop-opacity="1" />
+    <stop offset="1" stop-color="#ff509b" stop-opacity="1" />
+</linearGradient>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="url(#gradient1)" stroke="none" transform="matrix(2.27273,0,0,2.27273,-2.82602e-14,-56.8184)"
+font-family="Inter" font-size="9" font-weight="400" font-style="normal" 
+opacity="0.95" >
+<ellipse cx="11" cy="36.0001" rx="9.00012" ry="9.00012"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(2.27273,0,0,2.27273,-2.82602e-14,-56.8184)"
+font-family="Inter" font-size="12" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M7.00163,32.0002 L8.00163,32.0002 C8.01235,32.0001 8.02243,31.9998 8.03283,32.0002 C8.28779,32.0112 8.54269,32.1288 8.72033,32.3127 L11.0016,34.594 L13.3141,32.3127 C13.5797,32.0822 13.7607,32.0072 14.0016,32.0002 L15.0016,32.0002 L15.0016,33.0002 C15.0016,33.2867 14.9673,33.5509 14.7516,33.7502 L12.4703,36.0315 L14.7203,38.2815 C14.9085,38.4697 15.0016,38.7349 15.0016,39.0002 L15.0016,40.0002 L14.0016,40.0002 C13.7363,40.0002 13.471,39.9071 13.2828,39.719 L11.0016,37.4377 L8.72033,39.719 C8.53216,39.9072 8.26687,40.0002 8.00157,40.0002 L7.00157,40.0002 L7.00157,39.0002 C7.00157,38.7349 7.09465,38.4697 7.28283,38.2815 L9.56408,36.0315 L7.28283,33.7502 C7.07209,33.5556 6.97967,33.281 7.00157,33.0002 L7.00157,32.0002 L7.00163,32.0002"/>
+</g>
+
+<g fill="none" stroke="none" transform="matrix(2.27273,0,0,2.27273,-2.82602e-14,-56.8184)"
+font-family="Inter" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="1.24345e-14" y="25.0001" width="22" height="22"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Inter" font-size="9" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+</svg>

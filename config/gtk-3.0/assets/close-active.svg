@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 50 50"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Qt SVG Document</title>
+<desc>Generated with Qt</desc>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="1295.74" y1="260.827" x2="1308.11" y2="249.191" id="gradient1">
+    <stop offset="0" stop-color="#ff7d50" stop-opacity="1" />
+    <stop offset="1" stop-color="#ff509b" stop-opacity="1" />
+</linearGradient>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="url(#gradient1)" stroke="none" transform="matrix(2.27273,0,0,2.27273,0.00396159,-113.636)"
+font-family="Inter" font-size="9" font-weight="400" font-style="normal" 
+opacity="0.95" >
+<ellipse cx="10.9983" cy="60.9998" rx="8.99976" ry="8.99976"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(2.27273,0,0,2.27273,0.00396159,-113.636)"
+font-family="Inter" font-size="12" font-weight="400" font-style="normal" 
+opacity="0.25" >
+<path vector-effect="none" fill-rule="nonzero" d="M7,57 L7.99997,57 C8.01064,56.9999 8.02077,56.9995 8.03117,57 C8.28612,57.0107 8.54102,57.1285 8.71866,57.3125 L10.9998,59.5937 L13.3123,57.3125 C13.5779,57.082 13.7589,57.007 13.9997,57 L14.9997,57 L14.9997,58 C14.9997,58.2864 14.9654,58.5506 14.7497,58.7499 L12.4685,61.0311 L14.7185,63.2811 C14.9067,63.4692 14.9997,63.7345 14.9997,63.9998 L14.9997,64.9998 L13.9997,64.9998 C13.7345,64.9998 13.4692,64.9067 13.281,64.7185 L10.9998,62.4373 L8.71866,64.7185 C8.53049,64.9067 8.2652,64.9998 7.99992,64.9998 L6.99995,64.9998 L6.99995,63.9998 C6.99995,63.7345 7.09301,63.4692 7.28119,63.2811 L9.56238,61.0311 L7.28119,58.7499 C7.07046,58.5553 6.97804,58.2807 6.99995,58 L6.99995,57 L7,57"/>
+</g>
+
+<g fill="none" stroke="none" transform="matrix(2.27273,0,0,2.27273,0.00396159,-113.636)"
+font-family="Inter" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="-0.0017431" y="49.9998" width="22" height="22"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Inter" font-size="9" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+</svg>
